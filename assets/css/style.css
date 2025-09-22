@@ -173,6 +173,13 @@ hr {
     /* Override the heading colour set in general styles */
     color: #fafafa;
 }
+/* gallery page */
+#photos img {
+    width: 100%;
+}
+#photos {
+    line-height: 0;
+}
 
 /* Footer */
 #social-networks {
